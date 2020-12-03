@@ -1,4 +1,4 @@
-# Node Deployment Module Project
+# Node Deployment Module Project.
 
 In this challenge, you will **deploy** an API of your choosing to `heroku`.
 
